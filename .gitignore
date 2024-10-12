@@ -48,6 +48,7 @@ data/
 # next.js build output
 /.next/
 /out/
+.next
 
 # production build directory
 /build
