@@ -33,7 +33,7 @@ export default function ViewQueryPage() {
     };
 
     fetchData();
-  }, [queryId]);
+  }, [queryId, api]);
 
   // Decide what to render based on the state
   let viewQueryElement;
