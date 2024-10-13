@@ -50,7 +50,7 @@ export default function QueryListSidebar() {
   return (
     <div className="w-64 h-full fixed top-0 left-0 bg-white border-r border-gray-200 shadow-lg">
       <div className="p-4 border-b">
-        <h1 className="text-lg font-bold text-center">Recent Queries</h1>
+        <h1 className="text-lg text-center">Recent Queries</h1>
       </div>
       
       <div className="p-4 overflow-y-auto h-full">
