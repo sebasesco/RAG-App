@@ -5,7 +5,7 @@ This RAG application is designed to answer queries around **options trading**, l
 ## 🔗 Website
 
 You can access the live application here:  
-[https://rag-dmvpbv3ql-sebastian-escobars-projects.vercel.app/](https://rag-dmvpbv3ql-sebastian-escobars-projects.vercel.app/)
+https://rag-app-roan.vercel.app/
 
 ## Purpose
 
