@@ -1,4 +1,4 @@
 {
-  "/page": "app/page.js",
-  "/viewQuery/page": "app/viewQuery/page.js"
+  "/viewQuery/page": "app/viewQuery/page.js",
+  "/page": "app/page.js"
 }
